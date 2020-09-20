@@ -5,12 +5,12 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://doc-14-8c-docs.googleusercontent.com/docs/securesc/jgeu3cv4gkeq173giuf4t5qmf1fso39f/ae1nv10a0bls30idog84g6827iflkp76/1600582575000/04892294375471987441/08986142447353443672/1HDWdmL5i2NrD4e0RAu3EQXxyyq-wmJIG?e=download&authuser=0&nonce=2va6ai6j7e908&user=08986142447353443672&hash=hafrmauabetjlliqfr2oe73jp9m0fo5i
-  ROM_NAME: Generic
+  ROM_URL: https://udomain.dl.sourceforge.net/project/xiaomi-eu-multilang-miui-roms/xiaomi.eu/MIUI-STABLE-RELEASES/MIUIv12/xiaomi.eu_multi_MI8_V12.0.1.0.QEACNXM_v12-10.zip
+  ROM_NAME: MIUI
   BUILD_AB: true
   BUILD_Aonly: false
-  ROM_AONLY: ROM_A.7z
-  ROM_AB: ROM_AB.7z
+  ROM_AONLY: Rjhgfjh.7z
+  ROM_AB: ROM_AfgfB.7z
 
 jobs:
   build:
